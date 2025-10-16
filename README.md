@@ -6,4 +6,8 @@
 
 <img width="1388" height="778" alt="image" src="https://github.com/user-attachments/assets/41232553-0ce7-4a9a-a99a-6cc89f603665" />
 
+## Задание на Литкоде Province
+
+<img width="1905" height="952" alt="image" src="https://github.com/user-attachments/assets/9f4dc604-b734-4107-ae7d-79accaea6bd5" />
+
 
